@@ -1,6 +1,7 @@
 ## Hi there, I'm Davide Benedetto Strianese 👋
 
 # 💫 About Me:
+- Computer science graduate
 TODO SECTION
 <!--🔭 I’m currently working on<br>
 👯 I’m looking to collaborate on<br>
